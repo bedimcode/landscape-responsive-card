@@ -1,0 +1,18 @@
+/*=============== BASE ===============*/
+*{
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	font-family: var(--body-font);
+	background-color: var(--body-color);
+	color: var(--text-color);
+}
+
+img{
+	display: block;
+	max-width: 100%;
+	height: auto;
+}
